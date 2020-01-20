@@ -2,7 +2,6 @@
   "name": "jeyroik/kb-book",
   "description": "Book package for Kilobook",
   "require": {
-    "jeyroik/extas-foundation":"*",
     "jeyroik/extas-installer":"*",
     "jeyroik/extas-players": "*",
     "jeyroik/extas-base":"*",
